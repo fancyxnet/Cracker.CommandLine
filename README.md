@@ -103,11 +103,11 @@ public class TimestampToTimeCommand : CommandBase<TimeParameter>
 
 ### 作者
 
-crackerwork@outlook.com
+crackerwork@outlook.com/fancyxnet@gmail.com
 
-QQ: 1491184849
+QQ: 3805712581
 
-MySite: https://crackerwork.cn
+MySite: https://doc.crackerwork.cn
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
