@@ -117,14 +117,14 @@ MySite: https://doc.crackerwork.cn
 
 
 <!-- links -->
-[forks-shield]: https://img.shields.io/github/forks/1491184849/Cracker.CommandLine.svg?style=flat-square
-[forks-url]: https://github.com/1491184849/Cracker.CommandLine/network/members
-[stars-shield]: https://img.shields.io/github/stars/1491184849/Cracker.CommandLine.svg?style=flat-square
-[stars-url]: https://github.com/1491184849/Cracker.CommandLine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/1491184849/Cracker.CommandLine.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/1491184849/Cracker.CommandLine.svg
-[license-shield]: https://img.shields.io/github/license/1491184849/Cracker.CommandLine.svg?style=flat-square
-[license-url]: https://github.com/1491184849/Cracker.CommandLine/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/fancyxnet/Cracker.CommandLine.svg?style=flat-square
+[forks-url]: https://github.com/fancyxnet/Cracker.CommandLine/network/members
+[stars-shield]: https://img.shields.io/github/stars/fancyxnet/Cracker.CommandLine.svg?style=flat-square
+[stars-url]: https://github.com/fancyxnet/Cracker.CommandLine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fancyxnet/Cracker.CommandLine.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/fancyxnet/Cracker.CommandLine.svg
+[license-shield]: https://img.shields.io/github/license/fancyxnet/Cracker.CommandLine.svg?style=flat-square
+[license-url]: https://github.com/fancyxnet/Cracker.CommandLine/blob/master/LICENSE.txt
 [nuget-url]: https://img.shields.io/nuget/dt/Cracker.CommandLine
 [nuget-version-url]: https://img.shields.io/nuget/v/Cracker.CommandLine
 
